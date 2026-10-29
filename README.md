@@ -1,4 +1,4 @@
-# \# DevOps eindprojec
+# DevOps eindproject
 
-Voortgang en beslissingen: zie \[docs/logboek.md](docs/logboek.md)
+Voortgang en beslissingen: zie [docs/logboek.md](docs/logboek.md)
 
