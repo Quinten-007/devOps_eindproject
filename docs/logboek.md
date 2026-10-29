@@ -7,6 +7,7 @@ voor ik officieel start aan het project al een versiebeheer omgeving klaarzetten
 1. Lokale map aangemaakt op host
 2. Repository aangemaakt op mijn GitHub
 3. Lokale map gekoppeld:
+   
    ```bash
     git init
     git branch -M main
