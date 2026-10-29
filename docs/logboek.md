@@ -21,7 +21,7 @@ voor ik officieel start aan het project al een versiebeheer omgeving klaarzetten
    ```bash
     git init
     git branch -M main
-    git remote add origin git@github.com:\[user-name]/\[repository-name]
+    git remote add origin git@github.com:[user-name]/[repository-name]
    ```
 
 ### Resultaat
