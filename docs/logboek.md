@@ -1,18 +1,18 @@
-\#logboek DevOps eindproject
+#logboek DevOps eindproject
 
 
 
-\## 2026-10-29: Git-repository opgezet en gekoppeld aan mijn GitHub 
+## 2026-10-29: Git-repository opgezet en gekoppeld aan mijn GitHub 
 
 
 
-\### Doel
+### Doel
 
 voor ik officieel start aan het project al een versiebeheer omgeving klaarzetten, zodanig dat wanneer ik echt start er geen problemen kunnen opduiken.
 
 
 
-\### Uitgevoerde stappen
+### Uitgevoerde stappen
 
 1. Lokale map aangemaakt op host
 2. Repository aangemaakt op mijn GitHub
@@ -28,7 +28,7 @@ voor ik officieel start aan het project al een versiebeheer omgeving klaarzetten
 
 &#x20;  ```
 
-\### Resultaat
+### Resultaat
 
 Repository is bereikbaar op https://github.com/Quinten-007/devOps\_eindproject en de branch `main` volgt `origin/main`. wanneer ik dus vervolgets werk kan ik telkens mijn werk veilig opslaan.
 
