@@ -28,6 +28,7 @@ Voorkomen dat gevoelige of onnodige bestanden (secrets, sleutels, Terraform-stat
    - Terraform: `*.tfstate`, `*.tfstate.*`, `.terraform/`
    - editor- en OS-bestanden: `.vscode/`, `.idea/`, `.DS_Store`, `Thumbs.db`
 3. Bestand gecommit en gepusht:
+   
    ```bash
    git add .gitignore
    git commit -m ".gitignore toegevoegd"
