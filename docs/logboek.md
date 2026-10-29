@@ -1,4 +1,4 @@
-#logboek DevOps eindproject
+# logboek DevOps eindproject
 
 
 
@@ -18,15 +18,11 @@ voor ik officieel start aan het project al een versiebeheer omgeving klaarzetten
 2. Repository aangemaakt op mijn GitHub
 3. Lokale map gekoppeld:
 
-&#x20; ```bash
-
-&#x20;  git init
-
-&#x20;  git branch -M main
-
-&#x20;  git remote add origin git@github.com:\[user-name]/\[repository-name]
-
-&#x20;  ```
+   ```bash
+    git init
+    git branch -M main
+    git remote add origin git@github.com:[user-name]/[repository-name]
+   ```
 
 ### Resultaat
 
